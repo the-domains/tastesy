@@ -1,3 +1,18 @@
+layout_spectrum: 0.3443907228068882
+typography_spectrum: 0.5027999773063687
+color:
+  lightness: 0.5044738095078507
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  saturation: 0.868878273313109
+  brandStrength: 0.8638574045399517
+  rhythmicContrast: 0.7154634354621319
+coverPrefs:
+  filter: false
 name: TASTESY
 analytics: {}
 github: true
@@ -49,20 +64,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.5367154388173973
-color:
-  lightness: 0.9563879136249681
-  brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
-  saturation: 0.7129729184473284
-  brandStrength: 0.05236519561195285
-  rhythmicContrast: 0.9253912783018544
 content_rating:
   adult: false
-typography_spectrum: 0.04302755843276287
 opengraph: {}
 title: TASTESY
