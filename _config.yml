@@ -1,0 +1,68 @@
+name: TASTESY
+analytics: {}
+github: true
+description: PROBIEREN | GENIESSEN | ERLEBEN
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: Patryk Brzoza
+  email: brzozap@me.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e2f811-b226-4bfd-9f4a-b5a1770967ac.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e2f811-b226-4bfd-9f4a-b5a1770967ac.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.5367154388173973
+color:
+  lightness: 0.9563879136249681
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  saturation: 0.7129729184473284
+  brandStrength: 0.05236519561195285
+  rhythmicContrast: 0.9253912783018544
+content_rating:
+  adult: false
+typography_spectrum: 0.04302755843276287
+opengraph: {}
+title: TASTESY
